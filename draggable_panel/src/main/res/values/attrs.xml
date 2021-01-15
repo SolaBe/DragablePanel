@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnchorDraggablePage">
+        <attr name="dragRange" format="dimension"/>
+        <attr name="anchorHeight" format="dimension"/>
+        <attr name="peekHeight" format="dimension"/>
+    </declare-styleable>
+</resources>
